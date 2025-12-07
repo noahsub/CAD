@@ -7,7 +7,7 @@ A collection of CAD projects I've developed over the years, many of which progre
 ## Gallery
 
 <p align="center">
-  <img src="Mini%20Pc/Mini%20PC%20Render%20V2%20Reversed%201080p%20Optimized.gif" width="100%">
+  <img src="Mini%20Pc/minipc.png" width="100%">
 </p>
 
 <p align="center">
